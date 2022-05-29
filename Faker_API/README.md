@@ -1,3 +1,7 @@
+# Project Expectation:
+
+# Intial Backend Server Setup (Express/Node)
+
 1. setup project folder and add server.js
 2. cd in to project folder in CLI
 3. "npm init" or "npm init -y" to intialize the folder to take in node pakage manager request and also it generates pakege.jason
@@ -14,15 +18,16 @@
 
    ```
 
-6. Problem with "node server.js" is everytime we make change to file we will have to restart the server by tiping "node server.js", but there is a solution to that. We can simply install nodemon globally by typing following command. (This is done only once since we are installing this globally we dont have to install thsi for the other projects)
+6. Problem with "node server.js" is everytime we make change to file we will have to restart the server by tiping "node server.js", but there is a solution to that. We can simply install nodemon globally by typing following command.
+   (This is done only once since we are installing this globally)
 
    > sudo npm install -g nodemon
 
-7. Now since we have nodemon install globally type the follwing in the CLI, which allows server.js file to run attomatically after user saves a file. Nodemon is nothing but it is monitoring node/server changes after every save.
+7. Now since we have nodemon install globally type this follwing in the CLI, which allows server.js file to run attomatically after user saves a file. Nodemon is monitoring node/server changes after every save.
 
    > nodemon server.js
 
-# Project dependency
+# Project Dependency
 
 - For this project we want to install faker pakage from npm(node pakage manager)
 
