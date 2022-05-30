@@ -1,5 +1,9 @@
 # Project Expectation:
 
+![alt text](https://github.com/akarelia20/MERN_backend_coursework/blob/main/Faker_API/instructions1.png)
+
+![alt text](https://github.com/akarelia20/MERN_backend_coursework/blob/main/Faker_API/instructions2.png)
+
 # Intial Backend Server Setup (Express/Node)
 
 1. setup project folder and add server.js
@@ -34,3 +38,7 @@
   > npm install @faker-js/faker --save-dev
 
 - more about Faker on - https://github.com/faker-js/faker
+
+# Project Output (In Postman):
+
+![alt text](https://github.com/akarelia20/MERN_backend_coursework/blob/main/Faker_API/Output.png)
